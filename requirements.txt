@@ -1,0 +1,10 @@
+transformers[torch]
+deepspeed
+accelerate
+datasets
+evaluate
+ninja
+rouge-score 
+nltk 
+py7zr 
+tensorboard
